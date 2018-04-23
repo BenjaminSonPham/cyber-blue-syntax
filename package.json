@@ -2,12 +2,15 @@
   "name": "cyber-blue-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Black syntax theme with blue and white highlights",
   "keywords": [
+    "cyber",
+    "blue",
+    "black",
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/cyber-blue-syntax",
+  "repository": "https://github.com/BenjaminSonPham/cyber-blue-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

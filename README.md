@@ -1,5 +1,4 @@
 # cyber-blue-syntax theme
 
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+black syntax theme with blue and white highlights
+![Cyber blue screenshot](https://user-images.githubusercontent.com/17753574/39131505-697dda80-46c4-11e8-933c-cc9bea0b29ad.png)
